@@ -70,20 +70,6 @@ Ready to start hacking? **Let’s go!** 💥
 
 ---
 
-## 💖 **How You Can Support**
-
-If you appreciate this repository and want to show your support, you can do so through these platforms:
-
-| ❤️ **Platform**        | 🌟 **Support Link**                                                                                                                                        |
-|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **GitHub Sponsors**    | [![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsor-red?style=flat-square&logo=github)](https://github.com/sponsors/Hunterdii)                  |
-| **Buy Me a Coffee**    | [![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-orange?style=flat-square)](https://www.buymeacoffee.com/het81857)                 |
-| **Thanks.dev**         | [![Thanks.dev](https://img.shields.io/badge/💜-Thanks.dev-purple?style=flat-square)](https://thanks.dev/Hunterdii)                                          |
-
-**Thank you for your support! Every bit helps keep this repository going.** 🌈✨
-
----
-
 ## 📜 **Table of Contents**
 
 | 🔐 **Category**                                  | 🔢 **Rooms** | 🔒 **Rooms Completed by Me** |
@@ -116,7 +102,7 @@ If you appreciate this repository and want to show your support, you can do so t
 | **[Insane CTF](#insane-ctf)**                    |      1       |                            |
 | **[Misc](#misc)**                                |     43       |                             |
 | **[Special Events](#special-events)**            |     12       |                            |
-| **Total Rooms:**                                 |    **= 502** |          **= 50**           |
+| **Total Rooms:**                                 |    **= 502** |          **=**           |
 
 ---
 
@@ -200,7 +186,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | SDLC](https://tryhackme.com/room/sdlc)
 
-- [ ] [🕵️ TryHackMe | Welcome](https://tryhackme.com/room/hello)
+- [x] [🕵️ TryHackMe | Welcome](https://tryhackme.com/room/hello)
 
 - [ ] [🕵️ TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
 
@@ -279,11 +265,11 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | Content Discovery](https://tryhackme.com/room/contentdiscovery)
 
-- [x] [🕵️ TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)
+- [ ] [🕵️ TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)
 
 - [ ] [🕵️ TryHackMe | Shodan.io](https://tryhackme.com/room/shodan)
 
-- [x] [🕵️ TryHackMe | Google Dorking](https://tryhackme.com/room/googledorking)
+- [ ] [🕵️ TryHackMe | Google Dorking](https://tryhackme.com/room/googledorking)
 
 - [ ] [🕵️ TryHackMe | WebOSINT](https://tryhackme.com/room/webosint)
 
@@ -311,17 +297,17 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 ## Networking
 
-- [x] [🕵️ TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
+- [ ] [🕵️ TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
 
-- [x] [🕵️ TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
+- [ ] [🕵️ TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
 
 - [ ] [🕵️ TryHackMe | Networking](https://tryhackme.com/room/bpnetworking)
 
-- [x] [🕵️ TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan) **🚨 Attention!** Multiple users have reported that this room is **no longer free.**
+- [ ] [🕵️ TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan) **🚨 Attention!** Multiple users have reported that this room is **no longer free.**
 
-- [x] [🕵️ TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
+- [ ] [🕵️ TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
 
-- [x] [🕵️ TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
+- [ ] [🕵️ TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
 
 - [ ] [🕵️ TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
 
@@ -333,7 +319,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
   
 - [ ] [🕵️ TryHackMe | Intro to IaC](https://tryhackme.com/room/introtoiac)
 
-- [x] [🕵️ TryHackMe | Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
+- [ ] [🕵️ TryHackMe | Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
 
 - [ ] [🕵️ TryHackMe | tmux](https://tryhackme.com/room/rptmux)
 
@@ -349,11 +335,11 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | RustScan](https://tryhackme.com/room/rustscan)
 
-- [x] [🕵️ TryHackMe | Nessus](https://tryhackme.com/room/rpnessusredux)
+- [ ] [🕵️ TryHackMe | Nessus](https://tryhackme.com/room/rpnessusredux)
 
 - [ ] [🕵️ TryHackMe | Nmap Live Host Discovery](https://tryhackme.com/room/nmap01)
 
-- [x] [🕵️ TryHackMe | Nmap](https://tryhackme.com/room/furthernmap)
+- [ ] [🕵️ TryHackMe | Nmap](https://tryhackme.com/room/furthernmap)
 
 - [ ] [🕵️ TryHackMe | TShark](https://tryhackme.com/room/tshark)
 
@@ -377,7 +363,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | Cryptography for Dummies](https://tryhackme.com/room/cryptographyfordummies)
 
-- [x] [🕵️ TryHackMe | Crack the hash](https://tryhackme.com/room/crackthehash)
+- [ ] [🕵️ TryHackMe | Crack the hash](https://tryhackme.com/room/crackthehash)
 
 - [ ] [🕵️ TryHackMe | Crack The Hash Level 2](https://tryhackme.com/room/crackthehashlevel2)
 
@@ -385,7 +371,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | Brute It](https://tryhackme.com/room/bruteit)
 
-- [x] [🕵️ TryHackMe | Introduction to Cryptography](https://tryhackme.com/room/cryptographyintro)
+- [ ] [🕵️ TryHackMe | Introduction to Cryptography](https://tryhackme.com/room/cryptographyintro)
 
 ## Steganography
 
@@ -403,13 +389,13 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 ## Web
 
-- [x] [🕵️ TryHackMe | Microservices Architectures](https://tryhackme.com/room/microservicearchitectures)
+- [ ] [🕵️ TryHackMe | Microservices Architectures](https://tryhackme.com/room/microservicearchitectures)
   
-- [x] [🕵️ TryHackMe | NoSQL Injection](https://tryhackme.com/room/nosqlinjectiontutorial)
+- [ ] [🕵️ TryHackMe | NoSQL Injection](https://tryhackme.com/room/nosqlinjectiontutorial)
   
 - [ ] [🕵️ TryHackMe | Advanced SQL Injection](https://tryhackme.com/room/advancedsqlinjection)
   
-- [x] [🕵️ TryHackMe | XSS](https://tryhackme.com/room/axss)
+- [ ] [🕵️ TryHackMe | XSS](https://tryhackme.com/room/axss)
   
 - [ ] [🕵️ TryHackMe | CSRF](https://tryhackme.com/room/csrfV2)
   
@@ -421,7 +407,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | SSRF](https://tryhackme.com/room/ssrfhr)
 
-- [x] [🕵️ TryHackMe | OWASP Broken Access Control](https://tryhackme.com/room/owaspbrokenaccesscontrol)
+- [ ] [🕵️ TryHackMe | OWASP Broken Access Control](https://tryhackme.com/room/owaspbrokenaccesscontrol)
 
 - [ ] [🕵️ TryHackMe | HTTP in detail](https://tryhackme.com/room/webfundamentals)
 
@@ -439,7 +425,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | WebGOAT](https://tryhackme.com/room/webgoat)
 
-- [x] [🕵️ TryHackMe | Web Application Security](https://tryhackme.com/room/introwebapplicationsecurity)
+- [ ] [🕵️ TryHackMe | Web Application Security](https://tryhackme.com/room/introwebapplicationsecurity)
 
 - [ ] [🕵️ TryHackMe | DVWA](https://tryhackme.com/room/dvwa)
 
@@ -555,7 +541,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | Linux Privilege Escalation](https://tryhackme.com/room/linprivesc)
   
-- [x] [🕵️ TryHackMe | Linux PrivEsc](https://tryhackme.com/room/linuxprivesc)
+- [ ] [🕵️ TryHackMe | Linux PrivEsc](https://tryhackme.com/room/linuxprivesc)
   
 - [ ] [🕵️ TryHackMe | Linux PrivEsc Arena](https://tryhackme.com/room/linuxprivescarena)
   
@@ -597,7 +583,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
   
 - [ ] [🕵️ TryHackMe | Anthem](https://tryhackme.com/room/anthem)
   
-- [x] [🕵️ TryHackMe | Blue](https://tryhackme.com/room/blue)
+- [ ] [🕵️ TryHackMe | Blue](https://tryhackme.com/room/blue)
 
 ## Active Directory
 
@@ -639,9 +625,9 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 ## Easy CTF
 
-- [x] [🕵️ TryHackMe | Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro)
+- [ ] [🕵️ TryHackMe | Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro)
 
-- [x] [🕵️ TryHackMe | Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintro)
+- [ ] [🕵️ TryHackMe | Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintro)
       
 - [ ] [🕵️ TryHackMe | Pyrat](https://tryhackme.com/room/pyrat)
   
@@ -657,17 +643,17 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | Eviction](https://tryhackme.com/room/eviction)
 
-- [x] [🕵️ TryHackMe | Become a Hacker](https://tryhackme.com/room/becomeahackeroa)
+- [ ] [🕵️ TryHackMe | Become a Hacker](https://tryhackme.com/room/becomeahackeroa)
 
-- [x] [🕵️ TryHackMe | W1seGuy](https://tryhackme.com/room/w1seguy)
+- [ ] [🕵️ TryHackMe | W1seGuy](https://tryhackme.com/room/w1seguy)
   
 - [ ] [🕵️ TryHackMe | mKingdom](https://tryhackme.com/room/mkingdom)
 
-- [x] [🕵️ TryHackMe | How Websites Work](https://tryhackme.com/room/howwebsiteswork)
+- [ ] [🕵️ TryHackMe | How Websites Work](https://tryhackme.com/room/howwebsiteswork)
   
 - [ ] [🕵️ TryHackMe | Linux Process Analysis](https://tryhackme.com/room/linuxprocessanalysis)
   
-- [x] [🕵️ TryHackMe | CyberLens](https://tryhackme.com/room/cyberlensp6)
+- [ ] [🕵️ TryHackMe | CyberLens](https://tryhackme.com/room/cyberlensp6)
 
 - [ ] [🕵️ TryHackMe | Security Principles](https://tryhackme.com/room/securityprinciples)
   
@@ -677,7 +663,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
   
 - [ ] [🕵️ TryHackMe | Eviction](https://tryhackme.com/room/eviction)
 
-- [x] [🕵️ TryHackMe | Putting it all together](https://tryhackme.com/room/puttingitalltogether)
+- [ ] [🕵️ TryHackMe | Putting it all together](https://tryhackme.com/room/puttingitalltogether)
   
 - [ ] [🕵️ TryHackMe | Probe](https://tryhackme.com/room/probe)
   
@@ -695,7 +681,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
   
 - [ ] [🕵️ TryHackMe | Super Secret TIp](https://tryhackme.com/room/supersecrettip)
   
-- [x] [🕵️ TryHackMe | Lesson Learned?](https://tryhackme.com/room/lessonlearned)
+- [ ] [🕵️ TryHackMe | Lesson Learned?](https://tryhackme.com/room/lessonlearned)
   
 - [ ] [🕵️ TryHackMe | Grep](https://tryhackme.com/room/greprtp)
   
@@ -711,7 +697,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
   
 - [ ] [🕵️ TryHackMe | Capture!](https://tryhackme.com/room/capture)
   
-- [x] [🕵️ TryHackMe | Opacity](https://tryhackme.com/room/opacity)
+- [ ] [🕵️ TryHackMe | Opacity](https://tryhackme.com/room/opacity)
   
 - [ ] [🕵️ TryHackMe | LookBack](https://tryhackme.com/room/lookback)
   
@@ -729,7 +715,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
   
 - [ ] [🕵️ TryHackMe | Fowsniff CTF](https://tryhackme.com/room/ctf)
 
-- [x] [🕵️ TryHackMe | RootMe](https://tryhackme.com/room/rrootme)
+- [ ] [🕵️ TryHackMe | RootMe](https://tryhackme.com/room/rrootme)
 
 - [ ] [🕵️ TryHackMe | AttackerKB](https://tryhackme.com/room/attackerkb)
 
@@ -757,7 +743,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | Ninja Skills](https://tryhackme.com/room/ninjaskills)
 
-- [x] [🕵️ TryHackMe | Ice](https://tryhackme.com/room/ice)
+- [ ] [🕵️ TryHackMe | Ice](https://tryhackme.com/room/ice)
 
 - [ ] [🕵️ TryHackMe | Lian_Yu](https://tryhackme.com/room/lianyu)
 
@@ -845,7 +831,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
   
 - [ ] [🕵️ TryHackMe | Breakme](https://tryhackme.com/room/breakmenu)
   
-- [x] [🕵️ TryHackMe | Block](https://tryhackme.com/room/blockroom)
+- [ ] [🕵️ TryHackMe | Block](https://tryhackme.com/room/blockroom)
   
 - [ ] [🕵️ TryHackMe | APIWizards Breach](https://tryhackme.com/room/apiwizardsbreach)
   
@@ -887,7 +873,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | Boogeyman 1](https://tryhackme.com/room/boogeyman1)
 
-- [x] [🕵️ TryHackMe | Mr Robot CTF](https://tryhackme.com/room/mrrobot)
+- [ ] [🕵️ TryHackMe | Mr Robot CTF](https://tryhackme.com/room/mrrobot)
 
 - [ ] [🕵️ TryHackMe | Unattended](https://tryhackme.com/room/unattended)
 
@@ -907,7 +893,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | The Marketplace](https://tryhackme.com/room/marketplace)
 
-- [x] [🕵️ TryHackMe | Nax](https://tryhackme.com/room/nax)
+- [ ] [🕵️ TryHackMe | Nax](https://tryhackme.com/room/nax)
 
 - [ ] [🕵️ TryHackMe | Mindgames](https://tryhackme.com/room/mindgames)
 
@@ -929,7 +915,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | hackerNote](https://tryhackme.com/room/hackernote)
 
-- [x] [🕵️ TryHackMe | dogcat](https://tryhackme.com/room/dogcat)
+- [ ] [🕵️ TryHackMe | dogcat](https://tryhackme.com/room/dogcat)
 
 - [ ] [🕵️ TryHackMe | ConvertMyVideo](https://tryhackme.com/room/convertmyvideo)
 
