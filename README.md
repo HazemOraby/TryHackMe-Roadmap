@@ -88,34 +88,34 @@ If you appreciate this repository and want to show your support, you can do so t
 
 | 🔐 **Category**                                  | 🔢 **Rooms** | 🔒 **Rooms Completed by Me** |
 | ------------------------------------------------ |:------------:|:---------------------------:|
-| **[Introductory Rooms](#intro-rooms)**           |     21       |            9                |
-| **[Linux Fundamentals](#linux-fundamentals)**    |      4       |            3                |
+| **[Introductory Rooms](#intro-rooms)**           |     21       |                            |
+| **[Linux Fundamentals](#linux-fundamentals)**    |      4       |                            |
 | **[Windows Fundamentals](#windows-fundamentals)**|      3       |                             |
-| **[Basic Rooms](#basics-rooms)**                 |     14       |            1                |
-| **[Reconnaissance](#recon)**                     |     10       |            2                |
+| **[Basic Rooms](#basics-rooms)**                 |     14       |                            |
+| **[Reconnaissance](#recon)**                     |     10       |                            |
 | **[Scripting](#scripting)**                      |      7       |                             |
-| **[Networking](#networking)**                    |      7       |            5                |
-| **[Tooling](#tooling)**                          |     18       |            3                |
+| **[Networking](#networking)**                    |      7       |                            |
+| **[Tooling](#tooling)**                          |     18       |                            |
 | **[Container Security](#container-security)**    |     3        |                              |
-| **[Cryptography & Hashes](#cryptography--hashes)**|      7       |            2                |
+| **[Cryptography & Hashes](#cryptography--hashes)**|      7       |                            |
 | **[Steganography](#steganography)**              |      6       |                             |
-| **[Web](#web)**                                  |     33       |            5                |
+| **[Web](#web)**                                  |     33       |                            |
 | **[Android](#android)**                          |      1       |                             |
 | **[Forensics](#forensics)**                      |     17       |                             |
-| **[Wifi Hacking](#wi-fi-hacking)**               |      1       |            1                |
+| **[Wifi Hacking](#wi-fi-hacking)**               |      1       |                            |
 | **[Reverse Engineering](#reverse-engineering)**  |     9       |                             |
 | **[Malware Analysis](#malware-analysis)**        |      8       |                             |
-| **[Privilege Escalation](#privesc)**             |     13       |            1               |
-| **[Windows](#windows)**                          |      9       |            1                |
+| **[Privilege Escalation](#privesc)**             |     13       |                           |
+| **[Windows](#windows)**                          |      9       |                            |
 | **[Active Directory](#active-directory)**        |      8       |                             |
 | **[PCAP Analysis](#pcap-analysis)**              |      4       |                             |
 | **[Buffer Overflow](#bufferoverflow)**           |      4       |                             |
-| **[Easy CTF](#easy-ctf)**                        |     98       |            11               |
-| **[Medium CTF](#medium-ctf)**                    |     99       |             4               |
+| **[Easy CTF](#easy-ctf)**                        |     98       |                           |
+| **[Medium CTF](#medium-ctf)**                    |     99       |                            |
 | **[Hard CTF](#hard-ctf)**                        |     42       |                             |
-| **[Insane CTF](#insane-ctf)**                    |      1       |             1               |
+| **[Insane CTF](#insane-ctf)**                    |      1       |                            |
 | **[Misc](#misc)**                                |     43       |                             |
-| **[Special Events](#special-events)**            |     12       |             1               |
+| **[Special Events](#special-events)**            |     12       |                            |
 | **Total Rooms:**                                 |    **= 502** |          **= 50**           |
 
 ---
@@ -178,7 +178,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | Hosted Hypervisors](https://tryhackme.com/room/hostedhypervisors)
   
-- [x] [🕵️ TryHackMe | Enumeration & Brute Force](https://tryhackme.com/room/enumerationbruteforce)
+- [ ] [🕵️ TryHackMe | Enumeration & Brute Force](https://tryhackme.com/room/enumerationbruteforce)
   
 - [ ] [🕵️ TryHackMe | Introduction to CryptOps](https://tryhackme.com/room/introductiontocryptops)
   
@@ -186,7 +186,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
   
 - [ ] [🕵️ TryHackMe | Threat Hunting: Foothold](https://tryhackme.com/room/threathuntingfoothold)
   
-- [x] [🕵️ TryHackMe | Threat Hunting: Introduction](https://tryhackme.com/room/introductiontothreathunting)
+- [ ] [🕵️ TryHackMe | Threat Hunting: Introduction](https://tryhackme.com/room/introductiontothreathunting)
   
 - [ ] [🕵️ TryHackMe | Preparation](https://tryhackme.com/room/preparation)
 
@@ -194,29 +194,29 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | Intro to Threat Emulation](https://tryhackme.com/room/threatemulationintro)
 
-- [x] [🕵️ TryHackMe | Security Engineer Intro](https://tryhackme.com/room/securityengineerintro)
+- [ ] [🕵️ TryHackMe | Security Engineer Intro](https://tryhackme.com/room/securityengineerintro)
   
 - [ ] [🕵️ TryHackMe | Intro to Docker](https://tryhackme.com/room/introtodockerk8pdqk)
 
-- [x] [🕵️ TryHackMe | SDLC](https://tryhackme.com/room/sdlc)
+- [ ] [🕵️ TryHackMe | SDLC](https://tryhackme.com/room/sdlc)
 
 - [ ] [🕵️ TryHackMe | Welcome](https://tryhackme.com/room/hello)
 
 - [ ] [🕵️ TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
 
-- [x] [🕵️ TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
+- [ ] [🕵️ TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
 
-- [x] [🕵️ TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
+- [ ] [🕵️ TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
 
-- [x] [🕵️ TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
+- [ ] [🕵️ TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
 
-- [x] [🕵️ TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
+- [ ] [🕵️ TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
 
 - [ ] [🕵️ TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
 
 - [ ] [🕵️ TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
 
-- [x] [🕵️ TryHackMe | Careers in Cyber](https://tryhackme.com/room/careersincyber)
+- [ ] [🕵️ TryHackMe | Careers in Cyber](https://tryhackme.com/room/careersincyber)
 
 - [ ] [🕵️ TryHackMe | Junior Security Analyst Intro](https://tryhackme.com/room/jrsecanalystintrouxo)
 
@@ -227,11 +227,11 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
   
-- [x] [🕵️ TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
+- [ ] [🕵️ TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
   
-- [x] [🕵️ TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)  **🚨 Attention!** Multiple users have reported that this room is **no longer free.**
+- [ ] [🕵️ TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)  **🚨 Attention!** Multiple users have reported that this room is **no longer free.**
  
-- [x] [🕵️ TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)  **🚨 Attention!** Multiple users have reported that this room is **no longer free.**
+- [ ] [🕵️ TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)  **🚨 Attention!** Multiple users have reported that this room is **no longer free.**
 
 ## Windows Fundamentals
 
@@ -255,7 +255,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
 
-- [x] [🕵️ TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
+- [ ] [🕵️ TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
 
 - [ ] [🕵️ TryHackMe | Principles of Security](https://tryhackme.com/room/principlesofsecurity)
 
