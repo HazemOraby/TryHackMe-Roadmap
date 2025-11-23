@@ -188,9 +188,9 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [x] [🕵️ TryHackMe | Welcome](https://tryhackme.com/room/hello)
 
-- [ ] [🕵️ TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
+- [x] [🕵️ TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
 
-- [ ] [🕵️ TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
+- [x] [🕵️ TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
 
 - [ ] [🕵️ TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
 
