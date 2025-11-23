@@ -194,15 +194,15 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
 
-- [ ] [🕵️ TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
+- [x] [🕵️ TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
 
-- [ ] [🕵️ TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
+- [x] [🕵️ TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
 
-- [ ] [🕵️ TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
+- [x] [🕵️ TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
 
 - [ ] [🕵️ TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
 
-- [ ] [🕵️ TryHackMe | Careers in Cyber](https://tryhackme.com/room/careersincyber)
+- [x] [🕵️ TryHackMe | Careers in Cyber](https://tryhackme.com/room/careersincyber)
 
 - [ ] [🕵️ TryHackMe | Junior Security Analyst Intro](https://tryhackme.com/room/jrsecanalystintrouxo)
 
